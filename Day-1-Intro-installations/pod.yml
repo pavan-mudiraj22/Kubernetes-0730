@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: web-server-pod
+  name: test
   labels:
     app: web
     environment: production
